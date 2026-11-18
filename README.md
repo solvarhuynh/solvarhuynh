@@ -1,15 +1,15 @@
 
 <div align="center">
 
-# Nghĩa Huỳnh
+# Solvar / Nghĩa Huỳnh
 
 **Data Engineering · Data Science · Machine Learning**
 
-Aspiring Data Engineer / Data Scientist / ML Engineer
+Aspiring Data Engineer / Data Scientist / ML Engineer / AI Engineer
 
 Data Engineering student at HCMC University of Technology and Engineering.
 
-[GitHub](https://github.com/solvarhuynh) · [LinkedIn](https://www.linkedin.com/in/solvarhuynh/)
+[Facebook](https://www.facebook.com/hanky.180626) · [LinkedIn](https://www.linkedin.com/in/solvarhuynh/)
 
 </div>
 
@@ -54,13 +54,3 @@ I'm currently interested in:
 - Applied machine learning and production-oriented ML systems.
 - LLM-powered applications, retrieval systems, and document intelligence.
 - Building practical solutions through competitions and open-source projects.
-
----
-
-<div align="center">
-
-**Explore my work**
-
-[Repositories](https://github.com/solvarhuynh?tab=repositories) · [GitHub Profile](https://github.com/solvarhuynh)
-
-</div>
