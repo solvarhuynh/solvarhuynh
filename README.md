@@ -12,7 +12,7 @@
 Data Engineering student at HCMC University of Technology and Engineering.
 
 <a href="https://www.linkedin.com/in/solvarhuynh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/solvarhuynh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.facebook.com/hanky.180626"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="mailto:solvarhuynh@gmail.com"><img src="https://img.shields.io/badge/Email-solvarhuynh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email: solvarhuynh@gmail.com"></a>
 <img src="https://komarev.com/ghpvc/?username=solvarhuynh&style=flat-square&color=DB61A2&label=Profile%20Views" alt="Profile views">
 
