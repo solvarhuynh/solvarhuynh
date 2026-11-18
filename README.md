@@ -1,23 +1,23 @@
 
 <div align="center">
 
-# Solvar / Nghĩa Huỳnh
+<img src="./assets/logo.svg" alt="Solvar logo" width="100">
 
-**Data Engineering · Data Science · Machine Learning**
+# Nghĩa Huỳnh
 
-Aspiring Data Engineer / Data Scientist / ML Engineer / AI Engineer
+
+<img src="https://img.shields.io/badge/Work-Data%20Engineering%20%26%20Science%20%7C%20Machine%20Learning%20%26%20AI%20Engineering-161B22?style=flat-square&labelColor=555555" alt="Work: Data Engineering & Science | Machine Learning & AI Engineering">
+<img src="https://img.shields.io/badge/Focus-Data%20%26%20AI%20Systems-2563EB?style=flat-square&labelColor=555555" alt="Focus: Data & AI Systems">
 
 Data Engineering student at HCMC University of Technology and Engineering.
 
-[Facebook](https://www.facebook.com/hanky.180626) · [LinkedIn](https://www.linkedin.com/in/solvarhuynh/)
+[GitHub](https://github.com/solvarhuynh) · [LinkedIn](https://www.linkedin.com/in/solvarhuynh/)
 
 </div>
 
 ---
 
 I enjoy building end-to-end data systems, from data ingestion and transformation to analytics, machine learning, and intelligent applications.
-
-My work focuses on turning raw data into reliable pipelines, meaningful insights, and practical products.
 
 ### Areas of Interest
 
@@ -31,7 +31,7 @@ My work focuses on turning raw data into reliable pipelines, meaningful insights
 | Project | Description | Focus |
 |---|---|---|
 | [MDS Datathon FTU2 2026](https://github.com/solvarhuynh/MDS-Datathon-FTU2-2026) | Runner-up solution combining exploratory analysis, predictive modeling, and business insights. | Data Science, ML |
-| [DocAI Platform](https://github.com/solvarhuynh/docai-platform) | Document intelligence platform for invoices and contracts, featuring AI-powered extraction and validation. | AI, FastAPI, React |
+| [DocAI Platform](https://github.com/solvarhuynh/docai-platform) | Document intelligence platform for invoices and contracts, featuring AI-powered extraction and validation. | AI, FastAPI, React, Ocr |
 | [Insurance Risk Platform](https://github.com/solvarhuynh/insurance-risk-platform) | End-to-end insurance data warehouse and ML risk scoring platform with large-scale data processing. | Data Engineering, SQL, Airflow |
 | [Credit Risk Analytics](https://github.com/solvarhuynh/credit-risk-analytics-and-prediction) | Credit risk modeling, probability of default prediction, and interactive analytics dashboards. | ML, Power BI |
 | [UIT Data Science Challenge 2026](https://github.com/solvarhuynh/UIT-Data-Science-Challenge-2026) | Vietnamese legal RAG system using hybrid retrieval, reranking, and local LLMs. | NLP, RAG, LLM |

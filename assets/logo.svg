@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="90" viewBox="0 0 220 90" role="img" aria-labelledby="title">
+<title id="title">SOLVAR — Sunset wordmark</title>
+<defs>
+ <linearGradient id="sun" gradientUnits="userSpaceOnUse" x1="52" y1="23" x2="75" y2="58"><stop stop-color="#FFD66B"/><stop offset=".35" stop-color="#FFAD50"/><stop offset=".65" stop-color="#FF795E"/><stop offset="1" stop-color="#F52D63"/></linearGradient>
+ <linearGradient id="blue" gradientUnits="userSpaceOnUse" x1="14" y1="0" x2="206" y2="0"><stop stop-color="#FFFFFF"/><stop offset=".3" stop-color="#CDEBFF"/><stop offset=".68" stop-color="#43AFFF"/><stop offset="1" stop-color="#008BFF"/></linearGradient>
+</defs>
+<rect width="220" height="90" fill="#0D1117"/>
+<g fill="#F0F6FC">
+ <path d="M41 27 38 32C34 29 30 28 26 28c-4 0-6 1-6 4 0 2 3 3 8 4 8 1 13 4 13 9 0 7-6 10-14 10-6 0-11-2-15-5l3-5c4 3 8 5 13 5 4 0 7-2 7-4 0-3-3-4-9-5-8-1-12-4-12-9 0-6 5-9 12-9 6 0 11 1 15 4Z"/>
+ <path d="M86 24h6v25h17v5H86Z"/>
+ <path d="M108 24h7l10 22 10-22h7l-14 30h-6Z"/>
+ <path d="M149 24h6l15 30h-7l-11-23-11 23h-7Z"/>
+ <path d="M176 24h14c9 0 14 4 14 10 0 5-3 8-8 9l10 11h-8l-9-10h-7v10h-6Zm6 5v10h8c5 0 8-2 8-5s-3-5-8-5Z"/>
+</g>
+<g fill="url(#sun)">
+ <path d="M47 41A17 17 0 0 1 81 41Q64 37.5 47 41Z"/>
+ <path d="M47.8 44Q64 39.8 80.2 44Q64 49.8 47.8 44Z"/>
+ <path d="M51.2 49Q64 50.3 76.8 49Q64 54.5 51.2 49Z"/>
+ <path d="M57 54Q64 54.8 71 54Q64 58.8 57 54Z"/>
+</g>
+<path d="M14 76C70 53 150 53 206 76C147 59 73 59 14 76Z" fill="url(#blue)"/>
+</svg>
