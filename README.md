@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/logo.svg" alt="Solvar logo" width="100">
+<img src="./logo.svg" alt="Solvar logo" width="180">
 
 # Nghĩa Huỳnh
 
@@ -11,7 +11,7 @@
 
 Data Engineering student at HCMC University of Technology and Engineering.
 
-[GitHub](https://github.com/solvarhuynh) · [LinkedIn](https://www.linkedin.com/in/solvarhuynh/)
+[Facebook](https://www.facebook.com/hanky.180626) · [LinkedIn](https://www.linkedin.com/in/solvarhuynh/)
 
 </div>
 
